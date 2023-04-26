@@ -1,0 +1,20 @@
+.padrao{
+   min-height: 200px;
+    
+}
+
+.topo{
+    
+    min-height: 200px;
+}
+
+.logo{
+    min-height: 200px;
+    border-radius: 25px 25px;       
+}
+
+.botaomenu{
+     
+    min-height: 50px;
+    margin-left: 65px;
+}
